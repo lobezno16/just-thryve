@@ -706,6 +706,7 @@ We are building the lever that moves green credit in India.
 |:---|:---|
 | **GitHub Repository** | [github.com/lobezno16/just-thryve](https://github.com/lobezno16/just-thryve) |
 | **Hackathon** | [iqoo.reskilll.com](https://iqoo.reskilll.com) |
+| **PPT & Video** | [Drive Link](https://drive.google.com/drive/folders/1MC_tY2eFb7gyOKi3BtJVo5s3X_5P7bOr?usp=drive_link) |
 | **Track** | FinTech & Commerce |
 | **City** | Chennai |
 
