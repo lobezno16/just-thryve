@@ -631,24 +631,16 @@ This is consumed by 8 domain-specific service modules (`dashboardApi`, `loanApi`
 
 ## Future Improvements & Roadmap
 
-### Short-Term — City Battle (Next 48 Hours)
-
 - [ ] **React Native (Expo) Migration** — Port 5 key screens (Dashboard, Loan Application, ESG, Offers, Audit) to phone-native
 - [ ] **On-Device AI Credit Scoring** — ONNX Runtime model running on Snapdragon NPU for local ECS calculation
 - [ ] **MediaPipe LLM Integration** — Gemma-2B local inference for privacy-first AI financial advisor
 - [ ] **Supabase Backend** — Replace in-memory data store with PostgreSQL + Row-Level Security + Phone OTP auth
 - [ ] **Camera Document Scanning** — expo-camera + ML Kit OCR for GST invoices and ESG certificates
-
-### Medium-Term (1–3 Months)
-
 - [ ] **Real OCEN Integration** — Connect to iSPIRT's OCEN sandbox for live lender-borrower matching
 - [ ] **Account Aggregator Connector** — FIP integration for consent-based financial data pull (GSTN, banks)
 - [ ] **XGBoost Credit Model** — Train on actual MSME default/repayment data with SHAP explainability
 - [ ] **Push Notifications** — Loan status updates, EMI reminders, ESG score changes
 - [ ] **Offline-First (expo-sqlite)** — Local data caching for connectivity-poor Tier-2/3 areas
-
-### Long-Term Vision
-
 - [ ] **Multi-Lender OCEN Marketplace** — Any RBI-licensed NBFC or bank can plug into the platform via standardized APIs
 - [ ] **Green Credit Certificates (GCC)** — ECS 800+ borrowers earn tradeable certificates on India's CCTS Carbon Market
 - [ ] **Hyperledger Audit Chain** — Upgrade SHA-256 simulation to actual distributed ledger
